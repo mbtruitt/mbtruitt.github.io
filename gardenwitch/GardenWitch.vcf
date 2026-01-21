@@ -35,7 +35,7 @@ URL;TYPE=Facebook:https://www.facebook.com/islandgardenwitch
 URL;TYPE=Instagram:https://www.instagram.com/islandgardenwitch/#
 URL;TYPE=Venmo:https://venmo.com/u/KaralynneVonier
 
-PHOTO;ENCODING=b:
+PHOTO;mediatype=image/png:https://mbtruitt.github.io/gardenwitch/cover.png
 NOTE;CHARSET=UTF-8:Garden, Landscape, & PermacultureDesign, Installation, & Upkeep
 
 END:VCARD
